@@ -1,0 +1,13 @@
+cmake-build-*
+.idea
+tmp
+*.swp
+*.kate-swp
+data
+.vscode
+CMakeLists.txt.user
+build
+.cquery
+compile_commands.json
+run.sh
+
